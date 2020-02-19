@@ -1,0 +1,5 @@
+inherited Form1_Moto360: TForm1_Moto360
+  ClientHeight = 218
+  ClientWidth = 240
+  DesignerMasterStyle = 3
+end

@@ -1,0 +1,11 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  Caption = '['
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Label1: TLabel
+    Position.X = 64.000000000000000000
+    Position.Y = 32.000000000000000000
+    Text = 'Y.A.K.E 8266 '#22810#24179#21488#25511#21046
+  end
+end
